@@ -12,7 +12,7 @@ Mobile app for Antaragni...
 2. Run the command "flutter get pub" to get new dependencies.
 3. Then create a seperate branch for making any new changes.
 4. Then add and commit your changes on that branch.
-5. Push your changes to github by running "git push origin <branch name>".
+5. Push your changes to github by running "git push origin branch_name".
 
 # Warning - 
 - Do Not make any new changes on old branch, Always create new seperate branch and push this new branch.

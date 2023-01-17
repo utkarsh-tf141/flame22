@@ -3,7 +3,7 @@ Mobile app for Antaragni...
 
 
 # Installation steps-
-1. Clone this repository from https://github.com/antaragni-iitk/flame.git.
+1. Clone this repository from https://github.com/antaragni-iitk/flame22.git.
 2. Then open the folder in terminal and run the command "flutter pub get".
 3. Press the Run button to start app either on emulator or physical device.
 

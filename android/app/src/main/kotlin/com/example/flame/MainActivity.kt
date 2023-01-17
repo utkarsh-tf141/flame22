@@ -1,4 +1,4 @@
-package com.example.flame
+package antaragni.flame
 
 import io.flutter.embedding.android.FlutterActivity
 

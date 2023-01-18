@@ -9,7 +9,7 @@ Mobile app for Antaragni...
 
 # Contribution Steps-
 1. Before making any changes, first of all run the command "git pull origin master" to get all the changes done by others in your device.
-2. Run the command "flutter get pub" to get new dependencies.
+2. Run the command "flutter pub get" to get new dependencies.
 3. Then create a seperate branch for making any new changes.
 4. Then add and commit your changes on that branch.
 5. Push your changes to github by running "git push origin branch_name".
